@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="edtEmail">edtEmail</string>
+    <string name="edtName">edtName</string>
+    <string name="edtPassword">edtPassword</string>
+    <string name="edtReTypePassword">edtReTypePassword</string>
+    <string name="btnSubmit">btnSubmit</string>
+    <string name="btnCancel">btnCancel</string>
 </resources>
